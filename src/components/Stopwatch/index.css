@@ -92,6 +92,10 @@ button {
   margin: 0 6px;
 }
 
+button:active {
+  transform: scale(0.96);
+}
+
 .start-btn {
   background-color: #1db05f;
 }
